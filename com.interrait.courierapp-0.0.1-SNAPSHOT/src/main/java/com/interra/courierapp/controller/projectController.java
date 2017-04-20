@@ -1,4 +1,4 @@
-package com.courierapp.controller;
+package com.interra.courierapp.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

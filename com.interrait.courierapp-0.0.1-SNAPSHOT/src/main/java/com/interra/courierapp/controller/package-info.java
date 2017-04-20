@@ -5,4 +5,4 @@
  * @author AlokeT
  *
  */
-package com.courierapp.controller;
+package com.interra.courierapp.controller;
